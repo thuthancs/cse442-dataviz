@@ -2,4 +2,4 @@
 
 ## Collection of Data Viz
 
-![Love Songs Visualization](vega-altair/love_songs_viz.png)
+![Love Songs Visualization](vega-altair/bar_chart.svg)
